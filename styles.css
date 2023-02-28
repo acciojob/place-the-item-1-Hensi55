@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.container{
+.holder{
 	padding:20px;
 	display:flex;
 	flex-wrap:wrap;

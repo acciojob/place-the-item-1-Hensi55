@@ -3,8 +3,8 @@
 .container{
 	padding:20px;
 	display:flex;
-	flex-flow:row nowrap;
-	justify-content:spac;
+	flex-wrap:wrap;
+	justify-content:space-between;
 }
 .a{
 	background-color:green;
